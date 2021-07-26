@@ -1,0 +1,55 @@
+h1 
+    { 
+        color: brown; 
+        background-color: #BBBBCC;
+        
+    } 
+p,h2
+    {
+        text-align: center;
+        background-color: #aaeebe;
+    }
+
+
+* 
+    { 
+        background-color: #808080;
+    } 
+
+.head
+    {
+        color: green; 
+        display: flex; 
+        justify-content: space-between;
+        background-color: #96bb98;
+    }
+
+.menu
+    {
+        color: grey;
+        background-color: #6466BB;
+    }
+
+
+.grid
+    {
+        color: yellow;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        background-color: #646698;
+    }
+.item
+    {
+        color: rgb(84, 84, 218);
+        background-color: #547788;
+    }
+
+.footer
+    {
+        color:lightcoral;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+        background-color: #666688;
+    }
